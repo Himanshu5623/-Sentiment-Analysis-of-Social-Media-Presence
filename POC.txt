@@ -1,0 +1,6 @@
+POC Sentiment Analysis of Social Media Presence
+1- Logistic Regression
+2- SVM
+3- KNN
+4- Decision Tree
+5- Random Forest
